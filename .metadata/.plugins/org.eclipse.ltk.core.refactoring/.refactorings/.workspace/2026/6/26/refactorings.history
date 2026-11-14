@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;Hibern_Crud_opr_using_maen&apos;" deleteContents="true" description="Delete resource &apos;Hibern_Crud_opr_using_maen&apos;" element1="/Hibern_Crud_opr_using_maen" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1782491127119"/>
+</session>

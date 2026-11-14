@@ -1,0 +1,14 @@
+127.0.0.1 - - [12/Jun/2026:20:59:51 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [12/Jun/2026:20:59:53 +0530] "GET /RegisterationDemo/register.jsp HTTP/1.1" 200 672
+0:0:0:0:0:0:0:1 - - [12/Jun/2026:20:59:53 +0530] "GET /favicon.ico HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [12/Jun/2026:21:00:14 +0530] "POST /RegisterationDemo/regForm HTTP/1.1" 200 724
+0:0:0:0:0:0:0:1 - - [12/Jun/2026:21:03:16 +0530] "POST /RegisterationDemo/regForm HTTP/1.1" 200 724
+0:0:0:0:0:0:0:1 - - [12/Jun/2026:21:03:30 +0530] "POST /RegisterationDemo/regForm HTTP/1.1" 200 724
+0:0:0:0:0:0:0:1 - - [12/Jun/2026:21:06:24 +0530] "POST /RegisterationDemo/regForm HTTP/1.1" 200 724
+0:0:0:0:0:0:0:1 - - [12/Jun/2026:21:06:28 +0530] "GET /RegisterationDemo/register.jsp HTTP/1.1" 200 672
+0:0:0:0:0:0:0:1 - - [12/Jun/2026:21:06:28 +0530] "GET /RegisterationDemo/register.jsp HTTP/1.1" 200 672
+0:0:0:0:0:0:0:1 - - [12/Jun/2026:21:06:43 +0530] "POST /RegisterationDemo/regForm HTTP/1.1" 200 724
+0:0:0:0:0:0:0:1 - - [12/Jun/2026:21:07:26 +0530] "GET /RegisterationDemo/register.jsp HTTP/1.1" 200 699
+0:0:0:0:0:0:0:1 - - [12/Jun/2026:21:07:41 +0530] "POST /RegisterationDemo/regForm HTTP/1.1" 200 751
+0:0:0:0:0:0:0:1 - - [12/Jun/2026:21:09:14 +0530] "GET /RegisterationDemo/register.jsp HTTP/1.1" 200 699
+0:0:0:0:0:0:0:1 - - [12/Jun/2026:21:09:32 +0530] "POST /RegisterationDemo/regForm HTTP/1.1" 200 758

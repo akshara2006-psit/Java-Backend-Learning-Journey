@@ -1,0 +1,14 @@
+127.0.0.1 - - [09/Jun/2026:13:30:55 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [09/Jun/2026:13:30:55 +0530] "GET /sendRedirectDemo/index.html HTTP/1.1" 200 247
+0:0:0:0:0:0:0:1 - - [09/Jun/2026:13:30:55 +0530] "GET /favicon.ico HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [09/Jun/2026:13:31:31 +0530] "GET /sendRedirectDemo/index.html HTTP/1.1" 200 249
+0:0:0:0:0:0:0:1 - - [09/Jun/2026:13:31:36 +0530] "GET /sendRedirectDemo/submitform?search=www.amazon.com HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [09/Jun/2026:13:33:21 +0530] "GET /sendRedirectDemo/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [09/Jun/2026:13:33:26 +0530] "GET /sendRedirectDemo/submitform?search=www.amazon.com HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [09/Jun/2026:13:34:10 +0530] "GET /sendRedirectDemo/submitform?search=smart+programming HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [09/Jun/2026:13:34:30 +0530] "GET /sendRedirectDemo/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [09/Jun/2026:13:34:34 +0530] "GET /sendRedirectDemo/submitform?search=www.amazon.com HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [09/Jun/2026:13:34:50 +0530] "GET /sendRedirectDemo/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [09/Jun/2026:13:34:51 +0530] "GET /sendRedirectDemo/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [09/Jun/2026:13:35:01 +0530] "GET /sendRedirectDemo/submitform?search=smart+programming HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [09/Jun/2026:13:35:16 +0530] "GET /sendRedirectDemo/submitform?search=amazon.com HTTP/1.1" 302 -

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;in.sp.resources.springconfigFile&apos; to &apos;SpringconfigFile&apos;&#x0D;&#x0A;- Original project: &apos;springDemo_usingJavaFile&apos;&#x0D;&#x0A;- Original element: &apos;in.sp.resources.springconfigFile&apos;&#x0D;&#x0A;- Renamed element: &apos;in.sp.resources.SpringconfigFile&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;springconfigFile&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;in.sp.resources{springconfigFile.java[springconfigFile" matchStrategy="1" name="SpringconfigFile" qualified="false" references="true" similarDeclarations="false" stamp="1781525956527" textual="false" version="1.0"/>
+</session>

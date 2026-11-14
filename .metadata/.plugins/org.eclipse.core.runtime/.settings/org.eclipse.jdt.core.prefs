@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.core.classpathVariable.JRE_LIB=C\:/Program Files/Java/jdk-24/lib/jrt-fs.jar
+org.eclipse.jdt.core.classpathVariable.JRE_SRC=C\:/Program Files/Java/jdk-24/lib/src.zip
+org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
+org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
+org.eclipse.jdt.core.compiler.codegen.targetPlatform=21
+org.eclipse.jdt.core.compiler.compliance=21
+org.eclipse.jdt.core.compiler.release=enabled
+org.eclipse.jdt.core.compiler.source=21
+org.eclipse.jdt.core.timeoutForParameterNameFromAttachedJavadoc=50
+org.eclipse.jdt.core.userLibrary.springjara_javafile=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<userlibrary systemlibrary\="false" version\="2">\r\n\t<archive path\="C\:/Users/HP/Downloads/spring-aop-7.0.8.jar"/>\r\n\t<archive path\="C\:/Users/HP/Downloads/commons-logging-1.2.jar"/>\r\n\t<archive path\="C\:/Users/HP/Downloads/spring-expression-7.0.8.jar"/>\r\n\t<archive path\="C\:/Users/HP/Downloads/spring-context-7.0.8.jar"/>\r\n\t<archive path\="C\:/Users/HP/Downloads/spring-core-7.0.8.jar"/>\r\n\t<archive path\="C\:/Users/HP/Downloads/spring-beans-7.0.8.jar"/>\r\n</userlibrary>\r\n
+org.eclipse.jdt.core.userLibrary.springjars=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<userlibrary systemlibrary\="false" version\="2">\r\n\t<archive path\="C\:/Users/HP/Downloads/commons-logging-1.2.jar"/>\r\n\t<archive path\="C\:/Users/HP/Downloads/spring-expression-7.0.8.jar"/>\r\n\t<archive path\="C\:/Users/HP/Downloads/spring-context-7.0.8.jar"/>\r\n\t<archive path\="C\:/Users/HP/Downloads/spring-core-7.0.8.jar"/>\r\n\t<archive path\="C\:/Users/HP/Downloads/spring-beans-7.0.8.jar"/>\r\n</userlibrary>\r\n
